@@ -11,4 +11,5 @@ This repository contains projects on Sentiment Analysis .
 Most of the references and descriptions of this project are in the notebooks.
 
 ### Notes
-Information about the dataset used in the project is also in the notebook. I also put the dataset  in this repository.
+Information about the dataset used in the project is also in the notebook. 
+I also put the dataset  in this repository.
